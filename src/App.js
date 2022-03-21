@@ -12,7 +12,7 @@ export default function App() {
           <Dictionary defaultKeyword="cat" />
         </main>
         <footer className="App-footer">
-          <small>Coded by SheCodes</small>
+          <small>Coded by Valeria Montisci</small>
         </footer>
       </div>
     </div>
